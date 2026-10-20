@@ -6,6 +6,12 @@
 <title>DossierFlash</title>
 <meta name="description" content="DossierFlash : observatoire des prix, artisans certifiés, petites annonces gratuites 24 h/24 et pôle Campus France & CV ATS pour l'Afrique francophone.">
 <meta name="theme-color" content="#062a21">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="apple-touch-icon" href="/icon-192.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="DossierFlash">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Cpath d='M4 11a4 4 0 0 1 4-4h8l3 3h13a4 4 0 0 1 4 4v16a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4z' fill='%230c7156'/%3E%3Cpath d='M22 12l-8 11h6l-2 8 8-11h-6z' fill='%23ea7428'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1910,5 +1916,6 @@ applyLang();
 })();
 })();
 </script>
+<script>if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('/service-worker.js').catch(function(){});});}</script>
 </body>
 </html>
