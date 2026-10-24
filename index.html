@@ -504,6 +504,13 @@ footer{background:linear-gradient(180deg,var(--navy-d) 0%,var(--night) 100%);bor
 .dfx-adslot{margin-top:18px;border:2px dashed #b9c8dd;border-radius:14px;padding:20px;text-align:center;background:linear-gradient(180deg,#f7fafc,#eef4fa)}
 .dfx-adslot strong{color:#0a2246;font-size:1.05em}
 .dfx-adslot p{color:#3c4b63;margin:6px 0 10px}
+
+.flash-banner{background:linear-gradient(135deg,#0b2a6b,#123f8f);color:#fff;border-radius:18px;padding:26px 28px;box-shadow:0 12px 30px rgba(11,42,107,.25)}
+.flash-banner h2{color:#fff;margin:6px 0 10px}
+.flash-banner p{color:#dbe6ff;max-width:760px}
+.flash-banner .kicker{color:#ffb03a}
+.flash-scope{margin-top:22px;background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px 24px;box-shadow:var(--shadow)}
+.flash-scope h3{color:#0b2a6b;margin:0 0 8px}
 </style>
 </head>
 <body>
@@ -537,7 +544,7 @@ footer{background:linear-gradient(180deg,var(--navy-d) 0%,var(--night) 100%);bor
       <a href="#artisans" data-i18n="nav_art">Artisans</a>
       <a href="#annonces" data-i18n="nav_ann">Annonces</a>
       <a href="#campus" data-i18n="nav_campus">Campus &amp; CV</a><a href="#services" data-i18n="nav_svc">Services &amp; produits</a>
-      <a href="#medias" data-i18n="nav_media">Médias</a>
+      <a href="#medias" data-i18n="nav_media">Médias</a><a href="#flashnews" data-i18n="nav_flash">Flash News</a>
     </nav>
     <div class="nav-tools">
       <label class="sr" for="countrySel" data-i18n="country_label">Pays</label>
@@ -606,6 +613,62 @@ footer{background:linear-gradient(180deg,var(--navy-d) 0%,var(--night) 100%);bor
       </div>
     </div>
     
+
+    <!-- ===== Flash News : actualité business + opportunités internationales ===== -->
+    <section class="block dfx-reveal" id="flashnews" aria-labelledby="flashH">
+      <div class="flash-banner">
+        <div><span class="kicker" data-i18n="flash_kicker">Flash News — L'actualité qui bouge</span><h2 id="flashH" data-i18n="flash_title">Flash News</h2></div>
+        <p data-i18n="flash_sub">Les dernières nouvelles business pour toute l'Afrique : fret, sourcing USA, prix — et les opportunités internationales ouvertes aux Africains, quel que soit leur pays.</p>
+      </div>
+      <div class="grid" style="margin-top:18px">
+        <article class="art">
+          <span class="eyebrow" data-i18n="flash_tag_fret">Fret</span>
+          <h3 data-i18n="flash_t1">Asie → Douala : les surcharges entrent en vigueur ce week-end</h3>
+          <p data-i18n="flash_b1">Hapag-Lloyd : +800 $ par EVP dès les chargements du 25 octobre 2026, depuis la Chine, la Corée du Sud, le Japon, l'Asie du Sud-Est et l'Océanie vers l'Afrique du Sud-Ouest, Douala et Kribi inclus. Maersk : dès le 26 octobre, depuis la Chine, Hong Kong et Taïwan vers l'Afrique de l'Ouest (hors spot) : 800 $ le 20 pieds, 1 600 $ le 40/45 pieds high-cube. Un envoi ne paie qu'une seule de ces surcharges.</p>
+          <small>25–26 oct. 2026</small>
+        </article>
+        <article class="art">
+          <span class="eyebrow" data-i18n="flash_tag_fret">Fret</span>
+          <h3 data-i18n="flash_t2">CMA CGM : +550 $ par EVP depuis la Chine</h3>
+          <p data-i18n="flash_b2">CMA CGM : +550 $ par EVP sur les envois de Chine vers le Cameroun et l'Afrique de l'Ouest (South Range), en vigueur depuis le 22 octobre 2026. Les importations d'origine asiatique coûtent donc plus cher, semaine après semaine.</p>
+          <small>22 oct. 2026</small>
+        </article>
+        <article class="art">
+          <span class="eyebrow" data-i18n="flash_tag_src">Sourcing USA</span>
+          <h3 data-i18n="flash_t3">Le sourcing USA garde son avantage — pour l'instant</h3>
+          <p data-i18n="flash_b3">Aucune surcharge équivalente trouvée sur la route USA → Afrique de l'Ouest dans les recherches du 24 octobre — ce n'est pas une garantie, mais le sourcing américain garde pour l'instant un avantage relatif face aux importations asiatiques. DossierFlash suit 1 273 prix au Cameroun, dans 21 catégories et 32 marchés africains.</p>
+          <small>Oct. 2026</small>
+        </article>
+      </div>
+      <div class="sec-head" style="margin-top:28px">
+        <div><span class="eyebrow" data-i18n="flash_opp_kicker">Opportunités</span><h3 data-i18n="flash_opp_t">Opportunités internationales pour les Africains</h3></div>
+        <p data-i18n="flash_opp_sub">Emplois, formations et bourses à l'international — Europe, États-Unis et monde entier — ouverts à tous les pays d'Afrique.</p>
+      </div>
+      <div class="grid">
+        <article class="art">
+          <span class="eyebrow" data-i18n="flash_opp_job_k">Emplois</span>
+          <h3 data-i18n="flash_opp_job_t">Emplois internationaux</h3>
+          <p data-i18n="flash_opp_job_b">Offres d'emploi internationales publiées en Europe, aux États-Unis et dans le monde, ouvertes aux candidats africains, quel que soit leur pays — francophone, anglophone ou Guinée équatoriale. Seules les annonces vérifiées à la source sont relayées ici.</p>
+        </article>
+        <article class="art">
+          <span class="eyebrow" data-i18n="flash_opp_train_k">Formations</span>
+          <h3 data-i18n="flash_opp_train_t">Formations internationales</h3>
+          <p data-i18n="flash_opp_train_b">Formations internationales — professionnelles, techniques et en ligne — proposées par des institutions d'Europe, des États-Unis et d'ailleurs, accessibles aux Africains de tous les pays.</p>
+        </article>
+        <article class="art">
+          <span class="eyebrow" data-i18n="flash_opp_scholar_k">Bourses</span>
+          <h3 data-i18n="flash_opp_scholar_t">Bourses internationales</h3>
+          <p data-i18n="flash_opp_scholar_b">Bourses d'études internationales pour étudier en Europe, aux États-Unis et dans d'autres pays, ouvertes aux étudiants africains de toute l'Afrique, sans distinction de pays d'origine.</p>
+        </article>
+      </div>
+      <p class="small" style="margin-top:12px" data-i18n="flash_opp_note">Aucune annonce inventée : chaque opportunité publiée ici est vérifiée avant parution, avec sa source, ses conditions et sa date limite réelle. Les premières annonces vérifiées seront ajoutées à cette page au fur et à mesure.</p>
+      <p style="margin-top:10px"><a class="btn btn-flame" href="#campus" data-i18n="flash_opp_cta">Voir Campus &amp; CV</a></p>
+      <div class="flash-scope">
+        <h3 data-i18n="flash_scope_t">Toute l'Afrique, un seul fil</h3>
+        <p data-i18n="flash_scope_b">Afrique francophone, Afrique anglophone, Guinée équatoriale (hispanophone) et Afrique en général — un seul fil d'actualité business pour tout le continent.</p>
+      </div>
+      <p class="small" style="margin-top:12px" data-i18n="flash_foot">Flash News est mis à jour avec les briefings DossierFlash. Il ne remplace pas l'Observatoire des prix, ni la Mercuriale : il raconte l'actualité qui fait bouger ces prix.</p>
+    </section>
 <section class="block dfx-reveal" id="observatoire" aria-labelledby="obsH">
       <div class="sec-head">
         <div><span class="eyebrow" data-i18n="obs_eyebrow">Observatoire des vivres</span><h2 id="obsH" data-i18n="obs_title">Mercuriale du jour</h2></div>
@@ -1004,7 +1067,7 @@ footer{background:linear-gradient(180deg,var(--navy-d) 0%,var(--night) 100%);bor
         <p data-i18n="foot_tag"></p>
       </div>
       <div><h4 data-i18n="foot_sections">Rubriques</h4>
-        <ul><li><a href="#observatoire" data-i18n="nav_obs"></a></li><li><a href="#prixcm" data-i18n="nav_cm"></a></li><li><a href="#afrique" data-i18n="nav_afr"></a></li><li><a href="#artisans" data-i18n="nav_art"></a></li><li><a href="#annonces" data-i18n="nav_ann"></a></li><li><a href="#campus" data-i18n="nav_campus"></a></li><li><a href="#medias" data-i18n="nav_media"></a></li></ul>
+        <ul><li><a href="#observatoire" data-i18n="nav_obs"></a></li><li><a href="#prixcm" data-i18n="nav_cm"></a></li><li><a href="#afrique" data-i18n="nav_afr"></a></li><li><a href="#artisans" data-i18n="nav_art"></a></li><li><a href="#annonces" data-i18n="nav_ann"></a></li><li><a href="#campus" data-i18n="nav_campus"></a></li><li><a href="#medias" data-i18n="nav_media"></a></li><li><a href="#flashnews" data-i18n="nav_flash"></a></li></ul>
       </div>
       <div><h4 data-i18n="foot_countries">Pays couverts</h4><ul class="cols" id="footCountries"></ul></div>
     </div>
@@ -1064,7 +1127,7 @@ footer{background:linear-gradient(180deg,var(--navy-d) 0%,var(--night) 100%);bor
 const I = {
 fr:{
 cf_btn:"Calculer ma marge",cf_buy:"Prix d'achat unitaire (F)",cf_cost:"Coût de revient unitaire",cf_fees:"Frais & douane (%)",cf_freight:"Fret total (F)",cf_intro:"Importateurs et commerçants : estimez votre prix de vente et votre bénéfice avant d'acheter. Calcul instantané, 100 % dans votre navigateur.",cf_margin:"Marge souhaitée (%)",cf_note:"Estimation indicative : ajustez les frais selon votre transitaire et votre produit.",cf_price:"Prix de vente conseillé",cf_profit:"Bénéfice total estimé",cf_qty:"Quantité",cf_title:"💰 Simulateur Cashflow — votre marge, en un éclair",ts_s1d:"Sur WhatsApp ou via le paiement en ligne, en quelques minutes.",ts_s1t:"Vous commandez",ts_s2d:"Recherche, rédaction et mise en forme par notre équipe d'agents spécialisés.",ts_s2t:"Nos agents préparent",ts_s3d:"Chaque livraison est relue et validée par un humain avant de vous parvenir.",ts_s3t:"Un humain vérifie",ts_title:"🤝 Comment nous travaillons",pubband_title:"✨ DossierFlash en images",pub1_cap:"CV Flash — un CV qui passe le tri des logiciels",pub2_cap:"Les prix vérifiés, partout en Afrique",pub3_cap:"Commandez en ligne, recevez sans stress",skip:"Aller au contenu",meta_title:"DossierFlash · Prix en Afrique, CV & Services Pro, Données Afrique",
-nav_obs:"Observatoire",nav_art:"Artisans",nav_ann:"Annonces",nav_campus:"Campus & CV",nav_media:"Médias",
+nav_obs:"Observatoire",nav_art:"Artisans",nav_ann:"Annonces",nav_campus:"Campus & CV",nav_media:"Médias",nav_flash:"Flash News",flash_kicker:"Flash News — L'actualité qui bouge",flash_title:"Flash News",flash_sub:"Les dernières nouvelles business pour toute l'Afrique : fret, sourcing USA, prix — et les opportunités internationales ouvertes aux Africains, quel que soit leur pays.",flash_tag_fret:"Fret",flash_tag_src:"Sourcing USA",flash_t1:"Asie → Douala : les surcharges entrent en vigueur ce week-end",flash_b1:"Hapag-Lloyd : +800 $ par EVP dès les chargements du 25 octobre 2026, depuis la Chine, la Corée du Sud, le Japon, l'Asie du Sud-Est et l'Océanie vers l'Afrique du Sud-Ouest, Douala et Kribi inclus. Maersk : dès le 26 octobre, depuis la Chine, Hong Kong et Taïwan vers l'Afrique de l'Ouest (hors spot) : 800 $ le 20 pieds, 1 600 $ le 40/45 pieds high-cube. Un envoi ne paie qu'une seule de ces surcharges.",flash_t2:"CMA CGM : +550 $ par EVP depuis la Chine",flash_b2:"CMA CGM : +550 $ par EVP sur les envois de Chine vers le Cameroun et l'Afrique de l'Ouest (South Range), en vigueur depuis le 22 octobre 2026. Les importations d'origine asiatique coûtent donc plus cher, semaine après semaine.",flash_t3:"Le sourcing USA garde son avantage — pour l'instant",flash_b3:"Aucune surcharge équivalente trouvée sur la route USA → Afrique de l'Ouest dans les recherches du 24 octobre — ce n'est pas une garantie, mais le sourcing américain garde pour l'instant un avantage relatif face aux importations asiatiques. DossierFlash suit 1 273 prix au Cameroun, dans 21 catégories et 32 marchés africains.",flash_opp_kicker:"Opportunités",flash_opp_t:"Opportunités internationales pour les Africains",flash_opp_sub:"Emplois, formations et bourses à l'international — Europe, États-Unis et monde entier — ouverts à tous les pays d'Afrique.",flash_opp_job_k:"Emplois",flash_opp_job_t:"Emplois internationaux",flash_opp_job_b:"Offres d'emploi internationales publiées en Europe, aux États-Unis et dans le monde, ouvertes aux candidats africains, quel que soit leur pays — francophone, anglophone ou Guinée équatoriale. Seules les annonces vérifiées à la source sont relayées ici.",flash_opp_train_k:"Formations",flash_opp_train_t:"Formations internationales",flash_opp_train_b:"Formations internationales — professionnelles, techniques et en ligne — proposées par des institutions d'Europe, des États-Unis et d'ailleurs, accessibles aux Africains de tous les pays.",flash_opp_scholar_k:"Bourses",flash_opp_scholar_t:"Bourses internationales",flash_opp_scholar_b:"Bourses d'études internationales pour étudier en Europe, aux États-Unis et dans d'autres pays, ouvertes aux étudiants africains de toute l'Afrique, sans distinction de pays d'origine.",flash_opp_note:"Aucune annonce inventée : chaque opportunité publiée ici est vérifiée avant parution, avec sa source, ses conditions et sa date limite réelle. Les premières annonces vérifiées seront ajoutées à cette page au fur et à mesure.",flash_opp_cta:"Voir Campus & CV",flash_scope_t:"Toute l'Afrique, un seul fil",flash_scope_b:"Afrique francophone, Afrique anglophone, Guinée équatoriale (hispanophone) et Afrique en général — un seul fil d'actualité business pour tout le continent.",flash_foot:"Flash News est mis à jour avec les briefings DossierFlash. Il ne remplace pas l'Observatoire des prix, ni la Mercuriale : il raconte l'actualité qui fait bouger ces prix.",
 post:"Publier une annonce",post_short:"Publier",country_label:"Pays",menu:"Menu",
 hero_kicker:"13 pays · 1 seul portail",hero_title:"Le marché <em>en un éclair.</em>",
 hero_lead:"Prix des vivres, artisans certifiés, petites annonces gratuites et dossiers de candidature : tout ce qui compte au quotidien, de Dakar à Libreville.",
@@ -1108,7 +1171,7 @@ api_on:"Serveur DossierFlash connecté",api_off:"Mode autonome : données enregi
 },
 en:{
 cf_btn:"Calculate my margin",cf_buy:"Unit purchase price (F)",cf_cost:"Unit landed cost",cf_fees:"Fees & customs (%)",cf_freight:"Total freight (F)",cf_intro:"Importers and traders: estimate your selling price and profit before you buy. Instant calculation, 100% in your browser.",cf_margin:"Desired margin (%)",cf_note:"Indicative estimate: adjust the fees to your freight forwarder and product.",cf_price:"Recommended selling price",cf_profit:"Estimated total profit",cf_qty:"Quantity",cf_title:"💰 Cashflow Simulator — your margin, in a flash",ts_s1d:"On WhatsApp or via online payment, in a few minutes.",ts_s1t:"You order",ts_s2d:"Research, writing and formatting by our team of specialized agents.",ts_s2t:"Our agents prepare it",ts_s3d:"Every delivery is reviewed and approved by a human before it reaches you.",ts_s3t:"A human checks it",ts_title:"🤝 How we work",pubband_title:"✨ DossierFlash in pictures",pub1_cap:"CV Flash — a CV that passes the software screening",pub2_cap:"Verified prices, across Africa",pub3_cap:"Order online, receive stress-free",skip:"Skip to content",meta_title:"DossierFlash · Prices in Africa, Pro CV & Services, Africa Data",
-nav_obs:"Price watch",nav_art:"Artisans",nav_ann:"Classifieds",nav_campus:"Campus & CV",nav_media:"Media",
+nav_obs:"Price watch",nav_art:"Artisans",nav_ann:"Classifieds",nav_campus:"Campus & CV",nav_media:"Media",nav_flash:"Flash News",flash_kicker:"Flash News — News that moves",flash_title:"Flash News",flash_sub:"The latest business news for all of Africa: freight, USA sourcing, prices — plus international opportunities open to Africans, whatever their country.",flash_tag_fret:"Freight",flash_tag_src:"USA sourcing",flash_t1:"Asia → Douala: surcharges take effect this weekend",flash_b1:"Hapag-Lloyd: +$800 per TEU for loadings from 25 October 2026, from China, South Korea, Japan, Southeast Asia and Oceania to Southwest Africa, Douala and Kribi included. Maersk: from 26 October, from China, Hong Kong and Taiwan to West Africa (non-SPOT bookings only): $800 per 20ft box, $1,600 per 40ft or 45ft high-cube box. One shipment pays only one of these surcharges.",flash_t2:"CMA CGM: +$550 per TEU from China",flash_b2:"CMA CGM: +$550 per TEU on shipments from China to Cameroon and West Africa (South Range), in effect since 22 October 2026. Asia-origin imports therefore cost more, week after week.",flash_t3:"USA sourcing keeps its edge — for now",flash_b3:"No equivalent surcharge found on the USA → West Africa route in the 24 October searches — that is not a guarantee, but American sourcing keeps a relative edge over Asian imports for now. DossierFlash tracks 1,273 prices in Cameroon, across 21 categories and 32 African markets.",flash_opp_kicker:"Opportunities",flash_opp_t:"International opportunities for Africans",flash_opp_sub:"International jobs, training and scholarships — Europe, the United States and worldwide — open to every African country.",flash_opp_job_k:"Jobs",flash_opp_job_t:"International jobs",flash_opp_job_b:"International job offers published in Europe, the United States and worldwide, open to African candidates, whatever their country — Francophone, Anglophone or Equatorial Guinea. Only announcements verified at the source are relayed here.",flash_opp_train_k:"Training",flash_opp_train_t:"International training",flash_opp_train_b:"International training — professional, technical and online — offered by institutions in Europe, the United States and elsewhere, open to Africans from every country.",flash_opp_scholar_k:"Scholarships",flash_opp_scholar_t:"International scholarships",flash_opp_scholar_b:"International study scholarships to study in Europe, the United States and other countries, open to African students from all over Africa, with no distinction by country of origin.",flash_opp_note:"Nothing invented: every opportunity published here is verified before publication, with its source, its conditions and its real deadline. The first verified announcements will be added to this page as they come.",flash_opp_cta:"See Campus & CV",flash_scope_t:"All of Africa, one feed",flash_scope_b:"Francophone Africa, Anglophone Africa, Equatorial Guinea (Spanish-speaking) and Africa in general — a single business news feed for the whole continent.",flash_foot:"Flash News is updated with DossierFlash briefings. It does not replace the price observatory or the mercuriale: it tells the news that moves those prices.",
 post:"Post an ad",post_short:"Post",country_label:"Country",menu:"Menu",
 hero_kicker:"13 countries · 1 portal",hero_title:"The market <em>in a flash.</em>",
 hero_lead:"Food prices, certified artisans, free classifieds and application files: everything that matters day to day, from Dakar to Libreville.",
@@ -1152,7 +1215,7 @@ api_on:"DossierFlash server connected",api_off:"Standalone mode: data saved on t
 },
 es:{
 cf_btn:"Calcular mi margen",cf_buy:"Precio de compra unitario (F)",cf_cost:"Costo unitario total",cf_fees:"Gastos y aduana (%)",cf_freight:"Flete total (F)",cf_intro:"Importadores y comerciantes: estima tu precio de venta y tu beneficio antes de comprar. Cálculo instantáneo, 100 % en tu navegador.",cf_margin:"Margen deseado (%)",cf_note:"Estimación indicativa: ajusta los gastos según tu transitario y tu producto.",cf_price:"Precio de venta recomendado",cf_profit:"Beneficio total estimado",cf_qty:"Cantidad",cf_title:"💰 Simulador Cashflow — tu margen, en un instante",ts_s1d:"Por WhatsApp o mediante pago en línea, en pocos minutos.",ts_s1t:"Tú pides",ts_s2d:"Investigación, redacción y formato por nuestro equipo de agentes especializados.",ts_s2t:"Nuestros agentes lo preparan",ts_s3d:"Cada entrega es revisada y validada por un humano antes de llegar a ti.",ts_s3t:"Un humano lo verifica",ts_title:"🤝 Cómo trabajamos",pubband_title:"✨ DossierFlash en imágenes",pub1_cap:"CV Flash — un CV que supera el filtro de los programas",pub2_cap:"Precios verificados, en toda África",pub3_cap:"Pide en línea, recibe sin estrés",skip:"Ir al contenido",meta_title:"DossierFlash · Precios en África, CV y Servicios Pro, Datos de África",
-nav_obs:"Observatorio",nav_art:"Artesanos",nav_ann:"Anuncios",nav_campus:"Campus y CV",nav_media:"Multimedia",
+nav_obs:"Observatorio",nav_art:"Artesanos",nav_ann:"Anuncios",nav_campus:"Campus y CV",nav_media:"Multimedia",nav_flash:"Flash News",flash_kicker:"Flash News — La actualidad que se mueve",flash_title:"Flash News",flash_sub:"Las últimas noticias de negocios para toda África: fletes, abastecimiento desde EE. UU., precios — y las oportunidades internacionales abiertas a los africanos, sea cual sea su país.",flash_tag_fret:"Fletes",flash_tag_src:"Abastecimiento EE. UU.",flash_t1:"Asia → Duala: los recargos entran en vigor este fin de semana",flash_b1:"Hapag-Lloyd: +800 $ por TEU, para cargas desde el 25 de octubre de 2026, desde China, Corea del Sur, Japón, el Sudeste Asiático y Oceanía hacia África Sudoccidental, Duala y Kribi incluidos. Maersk: desde el 26 de octubre, desde China, Hong Kong y Taiwán hacia África Occidental (solo reservas no spot): 800 $ por contenedor de 20 pies, 1 600 $ por contenedor de 40 pies o de 45 pies high-cube. Un envío paga solo uno de estos recargos.",flash_t2:"CMA CGM: +550 $ por TEU desde China",flash_b2:"CMA CGM: +550 $ por TEU en los envíos desde China hacia Camerún y África Occidental (South Range), en vigor desde el 22 de octubre de 2026. Las importaciones de origen asiático cuestan, por tanto, más, semana tras semana.",flash_t3:"El abastecimiento desde EE. UU. mantiene su ventaja — por ahora",flash_b3:"No se encontró ningún recargo equivalente en la ruta EE. UU. → África Occidental en las búsquedas del 24 de octubre — eso no es una garantía, pero el abastecimiento estadounidense mantiene por ahora una ventaja relativa frente a las importaciones asiáticas. DossierFlash sigue 1 273 precios en Camerún, en 21 categorías y 32 mercados africanos.",flash_opp_kicker:"Oportunidades",flash_opp_t:"Oportunidades internacionales para los africanos",flash_opp_sub:"Empleos, formación y becas internacionales — Europa, Estados Unidos y todo el mundo — abiertos a todos los países de África.",flash_opp_job_k:"Empleos",flash_opp_job_t:"Empleos internacionales",flash_opp_job_b:"Ofertas de empleo internacionales publicadas en Europa, Estados Unidos y en todo el mundo, abiertas a los candidatos africanos, sea cual sea su país — francófono, anglófono o Guinea Ecuatorial. Solo se difunden aquí los anuncios verificados en la fuente.",flash_opp_train_k:"Formación",flash_opp_train_t:"Formación internacional",flash_opp_train_b:"Formación internacional — profesional, técnica y en línea — ofrecida por instituciones de Europa, Estados Unidos y otros países, accesible a los africanos de todos los países.",flash_opp_scholar_k:"Becas",flash_opp_scholar_t:"Becas internacionales",flash_opp_scholar_b:"Becas de estudio internacionales para estudiar en Europa, Estados Unidos y otros países, abiertas a los estudiantes africanos de toda África, sin distinción por país de origen.",flash_opp_note:"Nada inventado: cada oportunidad publicada aquí se verifica antes de su publicación, con su fuente, sus condiciones y su fecha límite real. Los primeros anuncios verificados se añadirán a esta página a medida que lleguen.",flash_opp_cta:"Ver Campus y CV",flash_scope_t:"Toda África, un solo hilo",flash_scope_b:"África francófona, África anglófona, Guinea Ecuatorial (hispanohablante) y África en general — un solo hilo de actualidad de negocios para todo el continente.",flash_foot:"Flash News se actualiza con los briefings de DossierFlash. No sustituye al observatorio de precios ni a la mercurial: cuenta la actualidad que mueve esos precios.",
 post:"Publicar un anuncio",post_short:"Publicar",country_label:"País",menu:"Menú",
 hero_kicker:"13 países · 1 solo portal",hero_title:"El mercado <em>en un instante.</em>",
 hero_lead:"Precios de alimentos, artesanos certificados, anuncios gratuitos y expedientes de candidatura: todo lo que importa a diario, de Dakar a Libreville.",
