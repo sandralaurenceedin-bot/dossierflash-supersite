@@ -457,6 +457,25 @@ footer{background:linear-gradient(180deg,var(--navy-d) 0%,var(--night) 100%);bor
 .afr-need{font-size:15px;font-weight:600}
 .afr-cats{display:flex;flex-wrap:wrap;gap:6px;margin-top:auto;padding-top:6px}
 .afr-cat{font-size:12.5px;font-weight:700;background:#eef4f1;border:1px solid var(--line);border-radius:999px;padding:2px 10px;color:var(--forest-d)}
+
+/* ===== v7 additions (2026-10-24) ===== */
+.cf-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin:12px 0}
+.cf-grid label{display:grid;gap:4px;font-size:.9rem;font-weight:600}
+.cf-out{margin-top:12px;background:#f4f7ff;border:1px solid #dbe4ff;border-radius:12px;padding:12px 14px}
+.cf-out strong{color:#0b2a6b}
+.trust-strip{margin:22px 0;padding:18px;border-radius:16px;background:linear-gradient(135deg,#0b2a6b,#123a8f);color:#fff}
+.trust-strip h3{margin:0 0 12px;color:#ffb03a}
+.ts-steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}
+.ts-step{display:flex;gap:10px;align-items:flex-start}
+.ts-step p{margin:0}
+.ts-num{flex:0 0 auto;width:30px;height:30px;border-radius:50%;background:#ff7a1a;color:#fff;font-weight:800;display:flex;align-items:center;justify-content:center}
+.pub-band{margin:26px 0}
+.pub-band h3{margin:0 0 12px}
+.pub-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.pub-card{margin:0;border-radius:16px;overflow:hidden;background:#fff;box-shadow:0 8px 24px rgba(11,42,107,.12)}
+.pub-card img{width:100%;height:190px;object-fit:cover;display:block}
+.pub-card figcaption{padding:10px 14px;font-weight:700;color:#0b2a6b}
+.pub-card a{text-decoration:none}
 </style>
 
 <style id="dfxStyle">
@@ -707,10 +726,19 @@ footer{background:linear-gradient(180deg,var(--navy-d) 0%,var(--night) 100%);bor
       </div>
       <div class="dfx-tv">
         <video id="dfxMain" class="dfx-main" src="/ads/v1.mp4" poster="/ads/p1.jpg" controls playsinline muted preload="metadata"></video>
-        <div class="dfx-thumbs" id="dfxThumbs"><button class="dfx-thumb is-active" type="button" data-v="/ads/v1.mp4" data-p="/ads/p1.jpg" aria-label="DossierFlash ad 1"><img src="/ads/p1.jpg" alt="DossierFlash — publicité 1" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v2.mp4" data-p="/ads/p2.jpg" aria-label="DossierFlash ad 2"><img src="/ads/p2.jpg" alt="DossierFlash — publicité 2" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v3.mp4" data-p="/ads/p3.jpg" aria-label="DossierFlash ad 3"><img src="/ads/p3.jpg" alt="DossierFlash — publicité 3" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v4.mp4" data-p="/ads/p4.jpg" aria-label="DossierFlash ad 4"><img src="/ads/p4.jpg" alt="DossierFlash — publicité 4" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v5.mp4" data-p="/ads/p5.jpg" aria-label="DossierFlash ad 5"><img src="/ads/p5.jpg" alt="DossierFlash — publicité 5" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v6.mp4" data-p="/ads/p6.jpg" aria-label="DossierFlash ad 6"><img src="/ads/p6.jpg" alt="DossierFlash — publicité 6" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v7.mp4" data-p="/ads/p7.jpg" aria-label="DossierFlash ad 7"><img src="/ads/p7.jpg" alt="DossierFlash — publicité 7" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v8.mp4" data-p="/ads/p8.jpg" aria-label="DossierFlash ad 8"><img src="/ads/p8.jpg" alt="DossierFlash — publicité 8" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v9.mp4" data-p="/ads/p9.jpg" aria-label="DossierFlash ad 9"><img src="/ads/p9.jpg" alt="DossierFlash — publicité 9" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v10.mp4" data-p="/ads/p10.jpg" aria-label="DossierFlash ad 10"><img src="/ads/p10.jpg" alt="DossierFlash — publicité 10" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v11.mp4" data-p="/ads/p11.jpg" aria-label="DossierFlash ad 11"><img src="/ads/p11.jpg" alt="DossierFlash — publicité 11" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v12.mp4" data-p="/ads/p12.jpg" aria-label="DossierFlash ad 12"><img src="/ads/p12.jpg" alt="DossierFlash — publicité 12" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v13.mp4" data-p="/ads/p13.jpg" aria-label="DossierFlash ad 13"><img src="/ads/p13.jpg" alt="DossierFlash — publicité 13" loading="lazy"></button></div>
+        <div class="dfx-thumbs" id="dfxThumbs"><button class="dfx-thumb is-active" type="button" data-v="/ads/v1.mp4" data-p="/ads/p1.jpg" aria-label="DossierFlash ad 1"><img src="/ads/p1.jpg" alt="DossierFlash — publicité 1" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v2.mp4" data-p="/ads/p2.jpg" aria-label="DossierFlash ad 2"><img src="/ads/p2.jpg" alt="DossierFlash — publicité 2" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v3.mp4" data-p="/ads/p3.jpg" aria-label="DossierFlash ad 3"><img src="/ads/p3.jpg" alt="DossierFlash — publicité 3" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v4.mp4" data-p="/ads/p4.jpg" aria-label="DossierFlash ad 4"><img src="/ads/p4.jpg" alt="DossierFlash — publicité 4" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v5.mp4" data-p="/ads/p5.jpg" aria-label="DossierFlash ad 5"><img src="/ads/p5.jpg" alt="DossierFlash — publicité 5" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v6.mp4" data-p="/ads/p6.jpg" aria-label="DossierFlash ad 6"><img src="/ads/p6.jpg" alt="DossierFlash — publicité 6" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v7.mp4" data-p="/ads/p7.jpg" aria-label="DossierFlash ad 7"><img src="/ads/p7.jpg" alt="DossierFlash — publicité 7" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v8.mp4" data-p="/ads/p8.jpg" aria-label="DossierFlash ad 8"><img src="/ads/p8.jpg" alt="DossierFlash — publicité 8" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v9.mp4" data-p="/ads/p9.jpg" aria-label="DossierFlash ad 9"><img src="/ads/p9.jpg" alt="DossierFlash — publicité 9" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v10.mp4" data-p="/ads/p10.jpg" aria-label="DossierFlash ad 10"><img src="/ads/p10.jpg" alt="DossierFlash — publicité 10" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v11.mp4" data-p="/ads/p11.jpg" aria-label="DossierFlash ad 11"><img src="/ads/p11.jpg" alt="DossierFlash — publicité 11" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v12.mp4" data-p="/ads/p12.jpg" aria-label="DossierFlash ad 12"><img src="/ads/p12.jpg" alt="DossierFlash — publicité 12" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v13.mp4" data-p="/ads/p13.jpg" aria-label="DossierFlash ad 13"><img src="/ads/p13.jpg" alt="DossierFlash — publicité 13" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v14.mp4" data-p="/ads/p14.jpg" aria-label="DossierFlash ad 14"><img src="/ads/p14.jpg" alt="DossierFlash — publicité 14" loading="lazy"></button><button class="dfx-thumb" type="button" data-v="/ads/v15.mp4" data-p="/ads/p15.jpg" aria-label="DossierFlash ad 15"><img src="/ads/p15.jpg" alt="DossierFlash — publicité 15" loading="lazy"></button></div>
       </div>
       <div class="dfx-adslot" data-i18n-html="adslot_html"></div>
     </section>
+<div class="pub-band" id="pubBand">
+  <h3 data-i18n="pubband_title">✨ DossierFlash en images</h3>
+  <div class="pub-grid">
+    <figure class="pub-card"><a href="#services"><img src="/ads/pub_cv.jpg" alt="DossierFlash — CV Flash" loading="lazy"><figcaption data-i18n="pub1_cap">CV Flash — un CV qui passe le tri des logiciels</figcaption></a></figure>
+    <figure class="pub-card"><a href="#afrique"><img src="/ads/pub_prix.jpg" alt="DossierFlash — Prix en Afrique" loading="lazy"><figcaption data-i18n="pub2_cap">Les prix vérifiés, partout en Afrique</figcaption></a></figure>
+    <figure class="pub-card"><a href="#services"><img src="/ads/pub_cmd.jpg" alt="DossierFlash — Commande en ligne" loading="lazy"><figcaption data-i18n="pub3_cap">Commandez en ligne, recevez sans stress</figcaption></a></figure>
+  </div>
+</div>
+
 
     <section class="block dfx-reveal" id="annonces" aria-labelledby="annH">
       <div class="sec-head">
@@ -740,7 +768,61 @@ footer{background:linear-gradient(180deg,var(--navy-d) 0%,var(--night) 100%);bor
       <div data-i18n-html="svc_b_html"></div>
       <div data-i18n-html="svc_c_html"></div>
       <div data-i18n-html="svc_d_html"></div>
+<!-- DossierFlash v7 — Bandeau confiance « Comment nous travaillons » — FR par défaut, i18n via data-i18n -->
+<div class="trust-strip" id="trustStrip">
+  <h3 data-i18n="ts_title">🤝 Comment nous travaillons</h3>
+  <div class="ts-steps">
+    <div class="ts-step"><span class="ts-num">1</span><p><strong data-i18n="ts_s1t">Vous commandez</strong><br><span data-i18n="ts_s1d">Sur WhatsApp ou via le paiement en ligne, en quelques minutes.</span></p></div>
+    <div class="ts-step"><span class="ts-num">2</span><p><strong data-i18n="ts_s2t">Nos agents préparent</strong><br><span data-i18n="ts_s2d">Recherche, rédaction et mise en forme par notre équipe d'agents spécialisés.</span></p></div>
+    <div class="ts-step"><span class="ts-num">3</span><p><strong data-i18n="ts_s3t">Un humain vérifie</strong><br><span data-i18n="ts_s3d">Chaque livraison est relue et validée par un humain avant de vous parvenir.</span></p></div>
+  </div>
+</div>
+
       <p class="small" style="margin-top:14px" data-i18n="svc_note"></p>
+<!-- DossierFlash v7 — Simulateur Cashflow (calculateur de marge importateur) — FR par défaut, i18n via data-i18n -->
+<div class="card cf-box" id="cashflowBox">
+  <h3 data-i18n="cf_title">💰 Simulateur Cashflow — votre marge, en un éclair</h3>
+  <p class="small" data-i18n="cf_intro">Importateurs et commerçants : estimez votre prix de vente et votre bénéfice avant d'acheter. Calcul instantané, 100 % dans votre navigateur.</p>
+  <div class="cf-grid">
+    <label><span data-i18n="cf_buy">Prix d'achat unitaire (F)</span><input class="inp" type="number" id="cfBuy" min="0" inputmode="numeric" placeholder="10 000"></label>
+    <label><span data-i18n="cf_qty">Quantité</span><input class="inp" type="number" id="cfQty" min="1" inputmode="numeric" placeholder="100"></label>
+    <label><span data-i18n="cf_freight">Fret total (F)</span><input class="inp" type="number" id="cfFreight" min="0" inputmode="numeric" placeholder="150 000"></label>
+    <label><span data-i18n="cf_fees">Frais & douane (%)</span><input class="inp" type="number" id="cfFees" min="0" max="200" inputmode="numeric" placeholder="20"></label>
+    <label><span data-i18n="cf_margin">Marge souhaitée (%)</span><input class="inp" type="number" id="cfMargin" min="0" max="500" inputmode="numeric" placeholder="30"></label>
+  </div>
+  <button class="btn" type="button" id="cfCalc" data-i18n="cf_btn">Calculer ma marge</button>
+  <div class="cf-out" id="cfOut" hidden>
+    <p><span data-i18n="cf_cost">Coût de revient unitaire</span> : <strong id="cfCost">—</strong></p>
+    <p><span data-i18n="cf_price">Prix de vente conseillé</span> : <strong id="cfPrice">—</strong></p>
+    <p><span data-i18n="cf_profit">Bénéfice total estimé</span> : <strong id="cfProfit">—</strong></p>
+    <p class="small" data-i18n="cf_note">Estimation indicative : ajustez les frais selon votre transitaire et votre produit.</p>
+  </div>
+</div>
+<script>
+(function(){
+  var fmt=function(n){return Math.round(n).toLocaleString('fr-FR')+' F';};
+  var el=function(id){return document.getElementById(id);};
+  function calc(){
+    var buy=parseFloat(el('cfBuy').value)||0, qty=parseInt(el('cfQty').value)||0,
+        freight=parseFloat(el('cfFreight').value)||0, fees=parseFloat(el('cfFees').value)||0,
+        margin=parseFloat(el('cfMargin').value)||0;
+    if(buy<=0||qty<=0){el('cfOut').hidden=true;return;}
+    var landed=(buy*qty+freight)*(1+fees/100);
+    var cost=landed/qty;
+    var price=cost*(1+margin/100);
+    var profit=(price-cost)*qty;
+    el('cfCost').textContent=fmt(cost);
+    el('cfPrice').textContent=fmt(price);
+    el('cfProfit').textContent=fmt(profit);
+    el('cfOut').hidden=false;
+  }
+  var b=el('cfCalc'); if(b){b.addEventListener('click',calc);}
+  ['cfBuy','cfQty','cfFreight','cfFees','cfMargin'].forEach(function(id){
+    var i=el(id); if(i){i.addEventListener('input',calc);}
+  });
+})();
+</script>
+
     </section>
 
     <section class="block dfx-reveal" id="campus" aria-labelledby="campH">
@@ -981,7 +1063,7 @@ footer{background:linear-gradient(180deg,var(--navy-d) 0%,var(--night) 100%);bor
 /* ================= i18n FR · EN · ES ================= */
 const I = {
 fr:{
-skip:"Aller au contenu",meta_title:"DossierFlash · Prix en Afrique, CV & Services Pro, Données Afrique",
+cf_btn:"Calculer ma marge",cf_buy:"Prix d'achat unitaire (F)",cf_cost:"Coût de revient unitaire",cf_fees:"Frais & douane (%)",cf_freight:"Fret total (F)",cf_intro:"Importateurs et commerçants : estimez votre prix de vente et votre bénéfice avant d'acheter. Calcul instantané, 100 % dans votre navigateur.",cf_margin:"Marge souhaitée (%)",cf_note:"Estimation indicative : ajustez les frais selon votre transitaire et votre produit.",cf_price:"Prix de vente conseillé",cf_profit:"Bénéfice total estimé",cf_qty:"Quantité",cf_title:"💰 Simulateur Cashflow — votre marge, en un éclair",ts_s1d:"Sur WhatsApp ou via le paiement en ligne, en quelques minutes.",ts_s1t:"Vous commandez",ts_s2d:"Recherche, rédaction et mise en forme par notre équipe d'agents spécialisés.",ts_s2t:"Nos agents préparent",ts_s3d:"Chaque livraison est relue et validée par un humain avant de vous parvenir.",ts_s3t:"Un humain vérifie",ts_title:"🤝 Comment nous travaillons",pubband_title:"✨ DossierFlash en images",pub1_cap:"CV Flash — un CV qui passe le tri des logiciels",pub2_cap:"Les prix vérifiés, partout en Afrique",pub3_cap:"Commandez en ligne, recevez sans stress",skip:"Aller au contenu",meta_title:"DossierFlash · Prix en Afrique, CV & Services Pro, Données Afrique",
 nav_obs:"Observatoire",nav_art:"Artisans",nav_ann:"Annonces",nav_campus:"Campus & CV",nav_media:"Médias",
 post:"Publier une annonce",post_short:"Publier",country_label:"Pays",menu:"Menu",
 hero_kicker:"13 pays · 1 seul portail",hero_title:"Le marché <em>en un éclair.</em>",
@@ -1025,7 +1107,7 @@ foot_tag:"Prix, artisans, annonces et carrière pour l'Afrique francophone.",foo
 api_on:"Serveur DossierFlash connecté",api_off:"Mode autonome : données enregistrées sur cet appareil"
 },
 en:{
-skip:"Skip to content",meta_title:"DossierFlash · Prices in Africa, Pro CV & Services, Africa Data",
+cf_btn:"Calculate my margin",cf_buy:"Unit purchase price (F)",cf_cost:"Unit landed cost",cf_fees:"Fees & customs (%)",cf_freight:"Total freight (F)",cf_intro:"Importers and traders: estimate your selling price and profit before you buy. Instant calculation, 100% in your browser.",cf_margin:"Desired margin (%)",cf_note:"Indicative estimate: adjust the fees to your freight forwarder and product.",cf_price:"Recommended selling price",cf_profit:"Estimated total profit",cf_qty:"Quantity",cf_title:"💰 Cashflow Simulator — your margin, in a flash",ts_s1d:"On WhatsApp or via online payment, in a few minutes.",ts_s1t:"You order",ts_s2d:"Research, writing and formatting by our team of specialized agents.",ts_s2t:"Our agents prepare it",ts_s3d:"Every delivery is reviewed and approved by a human before it reaches you.",ts_s3t:"A human checks it",ts_title:"🤝 How we work",pubband_title:"✨ DossierFlash in pictures",pub1_cap:"CV Flash — a CV that passes the software screening",pub2_cap:"Verified prices, across Africa",pub3_cap:"Order online, receive stress-free",skip:"Skip to content",meta_title:"DossierFlash · Prices in Africa, Pro CV & Services, Africa Data",
 nav_obs:"Price watch",nav_art:"Artisans",nav_ann:"Classifieds",nav_campus:"Campus & CV",nav_media:"Media",
 post:"Post an ad",post_short:"Post",country_label:"Country",menu:"Menu",
 hero_kicker:"13 countries · 1 portal",hero_title:"The market <em>in a flash.</em>",
@@ -1069,7 +1151,7 @@ foot_tag:"Prices, artisans, classifieds and careers for French-speaking Africa."
 api_on:"DossierFlash server connected",api_off:"Standalone mode: data saved on this device"
 },
 es:{
-skip:"Ir al contenido",meta_title:"DossierFlash · Precios en África, CV y Servicios Pro, Datos de África",
+cf_btn:"Calcular mi margen",cf_buy:"Precio de compra unitario (F)",cf_cost:"Costo unitario total",cf_fees:"Gastos y aduana (%)",cf_freight:"Flete total (F)",cf_intro:"Importadores y comerciantes: estima tu precio de venta y tu beneficio antes de comprar. Cálculo instantáneo, 100 % en tu navegador.",cf_margin:"Margen deseado (%)",cf_note:"Estimación indicativa: ajusta los gastos según tu transitario y tu producto.",cf_price:"Precio de venta recomendado",cf_profit:"Beneficio total estimado",cf_qty:"Cantidad",cf_title:"💰 Simulador Cashflow — tu margen, en un instante",ts_s1d:"Por WhatsApp o mediante pago en línea, en pocos minutos.",ts_s1t:"Tú pides",ts_s2d:"Investigación, redacción y formato por nuestro equipo de agentes especializados.",ts_s2t:"Nuestros agentes lo preparan",ts_s3d:"Cada entrega es revisada y validada por un humano antes de llegar a ti.",ts_s3t:"Un humano lo verifica",ts_title:"🤝 Cómo trabajamos",pubband_title:"✨ DossierFlash en imágenes",pub1_cap:"CV Flash — un CV que supera el filtro de los programas",pub2_cap:"Precios verificados, en toda África",pub3_cap:"Pide en línea, recibe sin estrés",skip:"Ir al contenido",meta_title:"DossierFlash · Precios en África, CV y Servicios Pro, Datos de África",
 nav_obs:"Observatorio",nav_art:"Artesanos",nav_ann:"Anuncios",nav_campus:"Campus y CV",nav_media:"Multimedia",
 post:"Publicar un anuncio",post_short:"Publicar",country_label:"País",menu:"Menú",
 hero_kicker:"13 países · 1 solo portal",hero_title:"El mercado <em>en un instante.</em>",
