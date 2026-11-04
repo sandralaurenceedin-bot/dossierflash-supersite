@@ -2203,7 +2203,7 @@ const Media=(()=>{
   if(visible&&!document.hidden)vraf=requestAnimationFrame(vdraw);}
  audio.addEventListener('play',()=>{try{if(!actx){const AC=window.AudioContext||window.webkitAudioContext;actx=new AC();const src=actx.createMediaElementSource(audio);an=actx.createAnalyser();an.fftSize=256;fd=new Uint8Array(an.frequencyBinCount);src.connect(an);an.connect(actx.destination);}if(actx.state==='suspended')actx.resume();}catch(e){}});
  $('#aFile').addEventListener('change',e=>{const f=e.target.files[0];if(!f)return;audio.src=URL.createObjectURL(f);trackKey=null;$('#aTrack').textContent=f.name;audio.play().catch(()=>{});});
- function start(){if(started)return;started=true;setMode('reel');video.pause();
+ function start(){if(started)return;started=true;setMode('reel');
   if(!audio.getAttribute('src'))audio.src=URL.createObjectURL(synth());}
  new IntersectionObserver(es=>{visible=es[0].isIntersecting;if(visible){start();kick();if(!vraf)vraf=requestAnimationFrame(vdraw);}},{rootMargin:'200px'}).observe($('#medias'));
   setTimeout(()=>{if(!started)start();},3000);
