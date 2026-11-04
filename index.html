@@ -2206,6 +2206,7 @@ const Media=(()=>{
  function start(){if(started)return;started=true;setMode('reel');video.pause();
   if(!audio.getAttribute('src'))audio.src=URL.createObjectURL(synth());}
  new IntersectionObserver(es=>{visible=es[0].isIntersecting;if(visible){start();kick();if(!vraf)vraf=requestAnimationFrame(vdraw);}},{rootMargin:'200px'}).observe($('#medias'));
+  setTimeout(()=>{if(!started)start();},3000);
  return{
   relabel(){if(trackKey)$('#aTrack').textContent=t(trackKey);if(started&&!ownUrl)draw((performance.now()-t0)/1000);},
   addServer(items){
