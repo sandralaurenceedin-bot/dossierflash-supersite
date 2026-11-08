@@ -2578,11 +2578,11 @@ Object.assign(I.es,{pay_html:'<div style="flex:1;min-width:240px"><div style="fo
         if(r.ok&&data.link){
           try{
             var p=new URLSearchParams();
-            p.append('entry.42902e7f',data.transId||'');
-            p.append('entry.5c2f8bf4',externalId);
-            p.append('entry.07f51b57',String(amount));
-            p.append('entry.1ecca2f3',email);
-            p.append('entry.20328411',productName);
+            p.append('entry.1116745343',data.transId||'');
+            p.append('entry.1546619892',externalId);
+            p.append('entry.133503831',String(amount));
+            p.append('entry.516727539',email);
+            p.append('entry.540181521',productName);
             await fetch(ORDER_FORM,{method:'POST',mode:'no-cors',body:p});
           }catch(e){}
           window.location.href=data.link;return;
