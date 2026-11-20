@@ -1,0 +1,95 @@
+# DossierFlash — Pan-African Product & Service Price Reference (41 Countries, 2026)
+> Primary trilingual (EN/FR/ES) observatory covering spot-checked 2026 staple benchmarks across 41 African countries (modeled across 21 product categories from DossierFlash's Cameroon 1,273-SKU reference), plus 16 Fapshi services, 2 ebooks, and 19 artisan trades.
+> Official contact: dossierflash@gmail.com | Services Checkout: https://www.dossierflash.com/#services | Books: https://www.dossierflash.com/#livres
+> Provenance Note: Figures below list spot-checked November 2026 country anchors (regulated fuel, wholesale/retail rice 50kg & cement 50kg); Water 1.5L and Paracetamol 500mg Box are shown only where directly retail-sourced (CM, CI, SN, NG, KE, ZA, MA).
+
+## Coverage & High-Demand Queries Answered Directly
+- Staples & building commodities: rice 50kg, CPJ cement 50kg, petrol (super)/L, diesel (gasoil)/L, LPG 12.5kg.
+- Directly sourced retail hubs (CM, CI, SN, NG, KE, ZA, MA): bottled water 1.5L, paracetamol 500mg boxes, entry smartphones.
+- Professional services & artisans: ATS CV writing, study-abroad packs, bankable business plans, trilingual translation, 19 artisan trades.
+
+## 41 Country Price Index Snapshot (Spot-Checked 2026 Anchors)
+- **Cameroon (CM / XAF)**: Rice 50kg `18,200.00 XAF` (`$30.63`), Water 1.5L `350.00 XAF`, Paracetamol Box `1,500.00 XAF`, Cement 50kg `4,900.00 XAF`, Petrol (Super)/L `840.00 XAF`, Gasoil/L `828.00 XAF`.
+- **Gabon (GA / XAF)**: Rice 50kg `25,000.00 XAF` (`$42.07`), Cement 50kg `4,600.00 XAF`, Petrol (Super)/L `735.00 XAF`, Gasoil/L `585.00 XAF`.
+- **Republic of the Congo (CG / XAF)**: Rice 50kg `28,000.00 XAF` (`$47.12`), Cement 50kg `5,200.00 XAF`, Petrol (Super)/L `625.00 XAF`, Gasoil/L `500.00 XAF`.
+- **Chad (TD / XAF)**: Rice 50kg `29,000.00 XAF` (`$48.8`), Cement 50kg `7,000.00 XAF`, Petrol (Super)/L `518.00 XAF`, Gasoil/L `548.00 XAF`.
+- **Central African Republic (CF / XAF)**: Rice 50kg `34,000.00 XAF` (`$57.21`), Cement 50kg `8,800.00 XAF`, Petrol (Super)/L `1,150.00 XAF`, Gasoil/L `1,450.00 XAF`.
+- **Equatorial Guinea (GQ / XAF)**: Rice 50kg `22,500.00 XAF` (`$37.86`), Cement 50kg `6,500.00 XAF`, Petrol (Super)/L `570.00 XAF`, Gasoil/L `560.00 XAF`.
+- **Côte d'Ivoire (CI / XOF)**: Rice 50kg `22,500.00 XOF` (`$37.86`), Water 1.5L `450.00 XOF`, Paracetamol Box `1,800.00 XOF`, Cement 50kg `4,250.00 XOF`, Petrol (Super)/L `905.00 XOF`, Gasoil/L `725.00 XOF`.
+- **Senegal (SN / XOF)**: Rice 50kg `21,500.00 XOF` (`$36.18`), Water 1.5L `400.00 XOF`, Paracetamol Box `1,600.00 XOF`, Cement 50kg `3,600.00 XOF`, Petrol (Super)/L `990.00 XOF`, Gasoil/L `755.00 XOF`.
+- **Benin (BJ / XOF)**: Rice 50kg `22,500.00 XOF` (`$37.86`), Cement 50kg `4,150.00 XOF`, Petrol (Super)/L `725.00 XOF`, Gasoil/L `700.00 XOF`.
+- **Togo (TG / XOF)**: Rice 50kg `21,500.00 XOF` (`$36.18`), Cement 50kg `4,400.00 XOF`, Petrol (Super)/L `817.00 XOF`, Gasoil/L `766.00 XOF`.
+- **Burkina Faso (BF / XOF)**: Rice 50kg `21,500.00 XOF` (`$36.18`), Cement 50kg `4,850.00 XOF`, Petrol (Super)/L `850.00 XOF`, Gasoil/L `750.00 XOF`.
+- **Mali (ML / XOF)**: Rice 50kg `20,000.00 XOF` (`$33.66`), Cement 50kg `5,600.00 XOF`, Petrol (Super)/L `875.00 XOF`, Gasoil/L `940.00 XOF`.
+- **Niger (NE / XOF)**: Rice 50kg `24,000.00 XOF` (`$40.39`), Cement 50kg `5,750.00 XOF`, Petrol (Super)/L `499.00 XOF`, Gasoil/L `618.00 XOF`.
+- **DR Congo (CD / CDF)**: Rice 50kg `92,000.00 CDF` (`$40.88`), Cement 50kg `22,500.00 CDF`, Petrol (Super)/L `2,640.00 CDF`, Gasoil/L `2,635.00 CDF`.
+- **Guinea (GN / GNF)**: Rice 50kg `330,000.00 GNF` (`$37.27`), Cement 50kg `85,000.00 GNF`, Petrol (Super)/L `12,000.00 GNF`, Gasoil/L `12,000.00 GNF`.
+- **Madagascar (MG / MGA)**: Rice 50kg `128,000.00 MGA` (`$27.98`), Cement 50kg `36,000.00 MGA`, Petrol (Super)/L `5,300.00 MGA`, Gasoil/L `4,860.00 MGA`.
+- **Rwanda (RW / RWF)**: Rice 50kg `62,000.00 RWF` (`$41.9`), Cement 50kg `12,500.00 RWF`, Petrol (Super)/L `2,938.00 RWF`, Gasoil/L `2,927.00 RWF`.
+- **Burundi (BI / BIF)**: Rice 50kg `155,000.00 BIF` (`$51.51`), Cement 50kg `40,000.00 BIF`, Petrol (Super)/L `4,030.00 BIF`, Gasoil/L `3,940.00 BIF`.
+- **Mauritania (MR / MRU)**: Rice 50kg `1,750.00 MRU` (`$43.16`), Cement 50kg `340.00 MRU`, Petrol (Super)/L `54.00 MRU`, Gasoil/L `51.00 MRU`.
+- **Djibouti (DJ / DJF)**: Rice 50kg `8,500.00 DJF` (`$47.83`), Cement 50kg `2,100.00 DJF`, Petrol (Super)/L `265.00 DJF`, Gasoil/L `240.00 DJF`.
+- **Morocco (MA / MAD)**: Rice 50kg `580.00 MAD` (`$58.65`), Water 1.5L `5.50 MAD`, Paracetamol Box `12.00 MAD`, Cement 50kg `82.50 MAD`, Petrol (Super)/L `15.36 MAD`, Gasoil/L `11.20 MAD`.
+- **Tunisia (TN / TND)**: Rice 50kg `145.00 TND` (`$48.01`), Cement 50kg `24.00 TND`, Petrol (Super)/L `2.53 TND`, Gasoil/L `2.30 TND`.
+- **Algeria (DZ / DZD)**: Rice 50kg `10,500.00 DZD` (`$76.73`), Cement 50kg `800.00 DZD`, Petrol (Super)/L `47.00 DZD`, Gasoil/L `31.00 DZD`.
+- **Nigeria (NG / NGN)**: Rice 50kg `85,000.00 NGN` (`$62.85`), Water 1.5L `350.00 NGN`, Paracetamol Box `2,100.00 NGN`, Cement 50kg `12,500.00 NGN`, Petrol (Super)/L `1,300.00 NGN`, Gasoil/L `1,420.00 NGN`.
+- **South Africa (ZA / ZAR)**: Rice 50kg `980.00 ZAR` (`$57.99`), Water 1.5L `14.00 ZAR`, Paracetamol Box `54.99 ZAR`, Cement 50kg `108.00 ZAR`, Petrol (Super)/L `29.81 ZAR`, Gasoil/L `24.50 ZAR`.
+- **Kenya (KE / KES)**: Rice 50kg `7,200.00 KES` (`$55.39`), Water 1.5L `80.00 KES`, Paracetamol Box `150.00 KES`, Cement 50kg `750.00 KES`, Petrol (Super)/L `226.96 KES`, Gasoil/L `188.00 KES`.
+- **Ghana (GH / GHS)**: Rice 50kg `780.00 GHS` (`$66.35`), Cement 50kg `105.00 GHS`, Petrol (Super)/L `19.23 GHS`, Gasoil/L `18.20 GHS`.
+- **Uganda (UG / UGX)**: Rice 50kg `185,000.00 UGX` (`$45.97`), Cement 50kg `26,500.00 UGX`, Petrol (Super)/L `6,774.00 UGX`, Gasoil/L `4,950.00 UGX`.
+- **Tanzania (TZ / TZS)**: Rice 50kg `125,000.00 TZS` (`$47.31`), Cement 50kg `19,000.00 TZS`, Petrol (Super)/L `4,057.00 TZS`, Gasoil/L `3,100.00 TZS`.
+- **Zambia (ZM / ZMW)**: Rice 50kg `1,150.00 ZMW` (`$56.26`), Cement 50kg `185.00 ZMW`, Petrol (Super)/L `33.06 ZMW`, Gasoil/L `33.27 ZMW`.
+- **Zimbabwe (ZW / ZWL)**: Rice 50kg `2,525.70 ZWL` (`$95.0`), Cement 50kg `279.20 ZWL`, Petrol (Super)/L `54.50 ZWL`, Gasoil/L `54.24 ZWL`.
+- **Botswana (BW / BWP)**: Rice 50kg `780.00 BWP` (`$53.98`), Cement 50kg `115.00 BWP`, Petrol (Super)/L `19.75 BWP`, Gasoil/L `20.93 BWP`.
+- **Namibia (NA / NAD)**: Rice 50kg `860.00 NAD` (`$50.89`), Cement 50kg `125.00 NAD`, Petrol (Super)/L `28.58 NAD`, Gasoil/L `27.86 NAD`.
+- **Lesotho (LS / LSL)**: Rice 50kg `890.00 LSL` (`$52.67`), Cement 50kg `128.00 LSL`, Petrol (Super)/L `29.25 LSL`, Gasoil/L `28.50 LSL`.
+- **Mauritius (MU / MUR)**: Rice 50kg `1,950.00 MUR` (`$40.93`), Cement 50kg `265.00 MUR`, Petrol (Super)/L `66.20 MUR`, Gasoil/L `58.90 MUR`.
+- **Malawi (MW / MWK)**: Rice 50kg `110,000.00 MWK` (`$62.96`), Cement 50kg `24,000.00 MWK`, Petrol (Super)/L `5,619.00 MWK`, Gasoil/L `5,863.00 MWK`.
+- **Sierra Leone (SL / SLE)**: Rice 50kg `975.00 SLE` (`$42.0`), Cement 50kg `240.00 SLE`, Petrol (Super)/L `45.00 SLE`, Gasoil/L `40.00 SLE`.
+- **Liberia (LR / LRD)**: Rice 50kg `6,490.50 LRD` (`$38.0`), Cement 50kg `1,673.90 LRD`, Petrol (Super)/L `196.40 LRD`, Gasoil/L `208.40 LRD`.
+- **Gambia (GM / GMD)**: Rice 50kg `2,075.00 GMD` (`$27.73`), Cement 50kg `540.00 GMD`, Petrol (Super)/L `76.00 GMD`, Gasoil/L `75.00 GMD`.
+- **Sudan (SD / SDG)**: Rice 50kg `23,081.90 SDG` (`$48.0`), Cement 50kg `5,530.00 SDG`, Petrol (Super)/L `336.60 SDG`, Gasoil/L `312.60 SDG`.
+- **Egypt (EG / EGP)**: Rice 50kg `1,850.00 EGP` (`$34.62`), Cement 50kg `215.00 EGP`, Petrol (Super)/L `24.00 EGP`, Gasoil/L `15.50 EGP`.
+
+## 41 Country Employment Agencies, Job Portals & Vocational Training (2026)
+- **Cameroon (CM)**: Agency `FNE (Fonds National de l'Emploi)` | Training `MINEFOP / Portail JEME (Jeune, Métier, Emploi)` | Job Portals: EmploiCmr, Jobdetection, JoobAf, FNE.cm -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Gabon (GA)**: Agency `ONE (Office National de l'Emploi)` | Training `ANFPP (Agence Nationale de Formation Professionnelle)` | Job Portals: Gabon Emploi, L'emploi.ga, ONE Gabon -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Republic of the Congo (CG)**: Agency `ACPE (Agence Congolaise pour l'Emploi)` | Training `DGFP / Ministère Enseignement Technique` | Job Portals: acpe.cg, Congo Emploi, JoobAf -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Chad (TD)**: Agency `ONAPE (Office National pour la Promotion de l'Emploi)` | Training `FONAP (Fonds National d'Appui à la Formation Professionnelle)` | Job Portals: ONAPE Tchad, TchadCarrière, UNDP / ReliefWeb -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Central African Republic (CF)**: Agency `ACFPE (Agence Centrafricaine pour la Formation Professionnelle et l'Emploi)` | Training `Ministère Travail & Formation Professionnelle / ONG Tech` | Job Portals: ACFPE RCA, Central African Republic Jobs, DevEx / UN Jobs -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Equatorial Guinea (GQ)**: Agency `Ministerio de Trabajo / Oficina Nacional de Empleo (Candidaturas Nacionales)` | Training `Centros de Formación Profesional Guinea Ecuatorial` | Job Portals: Empleo Guinea Ecuatorial, LinkedIn GE, Oil/Gas Contractor Portals -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Côte d'Ivoire (CI)**: Agency `Agence Emploi Jeunes (AEJ)` | Training `AGEFOP / FDFP / MENETFP` | Job Portals: Emploi.ci, Akwaba Emploi, JoobAf, UMO Intérim -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Senegal (SN)**: Agency `ANPEJ (Agence Nationale pour la Promotion de l'Emploi des Jeunes)` | Training `3FPT / ONFP Sénégal` | Job Portals: Emploi Dakar, SenEmploi, L'emploi.sn (AfricaWork), UMO Intérim -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Benin (BJ)**: Agency `ANPE Bénin (Agence Nationale pour l'Emploi)` | Training `FODEFOC (Formation Professionnelle Continue)` | Job Portals: Emploi.bj, ANPE Bénin Portail, UMO Intérim -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Togo (TG)**: Agency `ANPE Togo (anpetogo.org)` | Training `INFA / Direction Enseignement Technique & Professionnel` | Job Portals: Emploi.tg (AfricaWork), ANPE Togo, UMO Intérim -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Burkina Faso (BF)**: Agency `ANPE Burkina Faso` | Training `FDFP Burkina / FAFPA` | Job Portals: Emploi.bf, Burkina Emploi, UMO Intérim -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Mali (ML)**: Agency `ANPE Mali (Agence Nationale pour l'Emploi)` | Training `FAFPA Mali (Appui à la Formation Professionnelle)` | Job Portals: ANPE Mali, Mali Emploi, UMO Intérim -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Niger (NE)**: Agency `ANPE Niger` | Training `FAFPA / Directions Formation Professionnelle` | Job Portals: ANPE Niger, Niger Emploi, ReliefWeb Niger -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **DR Congo (CD)**: Agency `ONEM (Office National de l'Emploi RDC)` | Training `INPP (Institut National de Préparation Professionnelle)` | Job Portals: MediCongo Emplois, Jobkudi, Kinshasa Jobs -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Guinea (GN)**: Agency `AGUIPE (Agence Guinéenne pour la Promotion de l'Emploi)` | Training `ONFPP (Office National de Formation Professionnelle)` | Job Portals: AGUIPE Guinée, Emploi Guinée, DevEx / UN Jobs -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Madagascar (MG)**: Agency `ONE Madagascar / FEF` | Training `FMFP (Fonds Malgache de Formation Professionnelle)` | Job Portals: MadaJob, Portal Emploi Madagascar, DI-Africa -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Rwanda (RW)**: Agency `RDB Skills / Kira / Public Service Commission Portal` | Training `Workforce Development Authority (WDA) / CMU-Africa / Kepler` | Job Portals: Jobberman Rwanda, BrighterMonday Rwanda, MIFOTRA Portal -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Burundi (BI)**: Agency `OBEM (Office Burundais de l'Emploi et de la Main-d'Œuvre)` | Training `Ministère Éducation Technique & ONG / UNDP` | Job Portals: Burundi Jobs, ReliefWeb Burundi, UNDP Jobs -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Mauritania (MR)**: Agency `Techghil (Agence Nationale de Promotion de l'Emploi)` | Training `INAP-FTP Mauritanie` | Job Portals: Techghil.mr, Emploi.mr, Kassataya / Mauriweb Offres -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Djibouti (DJ)**: Agency `ANEFIP (Agence Nationale de l'Emploi, Formation et Insertion)` | Training `SFPI / ANEFIP Centres de Formation` | Job Portals: ANEFIP Djibouti, DjibNet Emploi, UN / DevEx -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Morocco (MA)**: Agency `ANAPEC (anapec.org)` | Training `OFPPT (Formation Professionnelle Maroc)` | Job Portals: Rekrute.com, Emploi.ma, LinkedIn Maroc -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Tunisia (TN)**: Agency `ANETI (emploi.nat.tn)` | Training `ATFP (Agence Tunisienne de la Formation Professionnelle)` | Job Portals: Tanitjobs, Keejob, OptionCarrière -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Algeria (DZ)**: Agency `ANEM (Agence Nationale de l'Emploi)` | Training `MFEP (Formation et Enseignement Professionnels)` | Job Portals: Emploitic.com, OuedKniss Emploi, EmploiPartner -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Nigeria (NG)**: Agency `Federal Ministry of Labour / NECA / NDE` | Training `Jobberman Soft Skills / Decagon / AltSchool Africa / ITF` | Job Portals: Jobberman Nigeria, MyJobMag Nigeria, HotNigerianJobs, LinkedIn NG -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **South Africa (ZA)**: Agency `Dept. of Employment & Labour (ESSA Portal)` | Training `SETA / UCT Online / OfferZen Foundation` | Job Portals: Careers24, Pnet, Indeed South Africa -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Kenya (KE)**: Agency `NEA (National Employment Authority - neaims.go.ke)` | Training `Ajira Digital / Power Learn Project (PLP) / NITA` | Job Portals: BrighterMonday Kenya, Fuzu Kenya, MyJobMag Kenya, GoKazini -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Ghana (GH)**: Agency `YEA (Youth Employment Agency) / Ghana Employment Centre` | Training `MEST Africa / COTVET (CTVET)` | Job Portals: Jobberman Ghana, Edwuma, GhanaCurrents / LinkedIn -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Uganda (UG)**: Agency `EEMIS / Ministry of Gender, Labour & Social Dev.` | Training `DIT / UFZA & Clarke Skilling Initiatives` | Job Portals: BrighterMonday Uganda, Future Options, MyJobMag Uganda -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Tanzania (TZ)**: Agency `Taifa Ajira Portal (PSRS) / TaESA` | Training `VETA (Vocational Education & Training Authority)` | Job Portals: BrighterMonday Tanzania, ZoomTanzania, Ajira Portal -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Zambia (ZM)**: Agency `Ministry of Labour Public Employment Services` | Training `TEVETA Zambia / BongoHive` | Job Portals: GoZambiaJobs, ZambiaJob, LinkedIn Zambia -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Zimbabwe (ZW)**: Agency `PSC e-Recruitment & Dept. Employment Promotion` | Training `Ministry Higher/Tertiary Future of Work & ZIMDEF` | Job Portals: psc.gov.zw, VacancyMail ZW, JobZim -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Botswana (BW)**: Agency `Department of Employment & Labour Services Botswana` | Training `HRDC Botswana / BIUST Continuous Learning` | Job Portals: Botswana Job Center, Staffwise BW, LinkedIn BW -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Namibia (NA)**: Agency `NIEIS (Namibia Integrated Employment Info System)` | Training `NTA (Namibia Training Authority)` | Job Portals: Namibia Jobs, Careers24 Namibia, NIEIS Portal -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Lesotho (LS)**: Agency `Dept. of Labour / National Employment Service Lesotho` | Training `TVD / SADC Cross-Border Skilling Centres` | Job Portals: Lesotho Jobs, CA Global Lesotho, Pnet Regional -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Mauritius (MU)**: Agency `Employment Information Centre (EIC - Ministry of Labour)` | Training `HRDC Mauritius / Polytechnics Mauritius / MQA` | Job Portals: MyJob.mu, MauritiusJobs.mu, CareerHub.mu -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Malawi (MW)**: Agency `Ministry of Labour Malawi Employment Exchanges` | Training `TEVETA Malawi (Entrepreneurial & Technical Training)` | Job Portals: MalawiJob.com, Ntchito.com, ReliefWeb MW -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Sierra Leone (SL)**: Agency `Ministry of Employment / NAYCOM Youth Commission` | Training `NCTVA (National Council Technical & Vocational Awards)` | Job Portals: Careers.sl, SLJobs, UNDP / ReliefWeb -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Liberia (LR)**: Agency `Ministry of Labour Liberia Employment Exchange` | Training `TVET Liberia / NGO Youth Skilling Centres` | Job Portals: Liberia Jobseekers Network, Executive Mansion Jobs, DevEx / UN -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Gambia (GM)**: Agency `MOTIE Department of Labour The Gambia` | Training `NAQAA / USET-GTTI Technical Training` | Job Portals: JobSearch Gambia, JobWeb Gambia, Careers Consult -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Sudan (SD)**: Agency `Ministry of Labour & Administrative Reform Sudan` | Training `Supreme Council for Vocational Training / UNDP-IOM Skilling` | Job Portals: SudanCareer, ReliefWeb Sudan, UN / DevEx -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
+- **Egypt (EG)**: Agency `Ministry of Manpower & Immigration Egypt` | Training `ITI (Information Technology Institute) / NTI / TVET Egypt` | Job Portals: Wuzzuf.net, Forasna.com, Tanqeeb Egypt -> Services: CV Flash (2 500 F), Pack Candidature (6 000 F)
